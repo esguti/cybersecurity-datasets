@@ -1,0 +1,16 @@
+keras
+numpy
+pandas
+pyspark
+Requests
+scipy
+dephell
+pycaret==3.3.0
+scikit-learn>1.4.0
+mlflow
+--extra-index-url=https://pypi.nvidia.com cuml-cu11
+optuna_integration
+scikit-optimize
+tune-sklearn
+hyperopt
+ray[tune]==2.7.1
